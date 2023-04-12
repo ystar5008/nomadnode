@@ -1,0 +1,17 @@
+{
+  "name": "nomadnode",
+  "version": "1.0.0",
+  "description": "줌 클론 webRTC 사용",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ystar5008/nomadnode.git"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ystar5008/nomadnode/issues"
+  },
+  "homepage": "https://github.com/ystar5008/nomadnode#readme",
+  "devDependencies": {
+    "nodemon": "^2.0.22"
+  }
+}
