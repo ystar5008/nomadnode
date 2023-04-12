@@ -7,11 +7,21 @@
     "url": "git+https://github.com/ystar5008/nomadnode.git"
   },
   "license": "MIT",
+  "scripts": {
+    "dev": "nodemon"
+  },
   "bugs": {
     "url": "https://github.com/ystar5008/nomadnode/issues"
   },
   "homepage": "https://github.com/ystar5008/nomadnode#readme",
   "devDependencies": {
+    "@babel/cli": "^7.21.0",
+    "@babel/core": "^7.21.4",
+    "@babel/node": "^7.20.7",
+    "@babel/preset-env": "^7.21.4",
     "nodemon": "^2.0.22"
+  },
+  "dependencies": {
+    "express": "^4.18.2"
   }
 }
